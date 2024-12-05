@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ispit.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3530c2bda1cc6a495e1948b92d628a2da153a8a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ispit.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ispit.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

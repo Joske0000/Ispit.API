@@ -13,6 +13,7 @@
         "packagesPath": "/Users/joske_mac/.nuget/packages/",
         "outputPath": "/Users/joske_mac/RiderProjects/Ispit.API/Ispit.API/obj/",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/joske_mac/.nuget/NuGet/NuGet.Config"
         ],
